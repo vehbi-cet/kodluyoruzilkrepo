@@ -11,7 +11,8 @@ https://github.com/vehbi-cet/kodluyoruzilkrepo.git
 ***
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
+Linux için
 
-Linux için:
+
 cd kodluyoruzilkrepo
 code .
