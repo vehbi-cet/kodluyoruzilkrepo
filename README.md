@@ -9,3 +9,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End kapsamınd
 ***
 https://github.com/vehbi-cet/kodluyoruzilkrepo.git
 ***
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
+
+Linux için:
+cd kodluyoruzilkrepo
+code .
