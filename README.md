@@ -6,4 +6,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End kapsamınd
 
 # Installtion
 Öncelikle projeyi clonelayın.
+-----------------------------------------------------------------------------
+
+
 https://github.com/vehbi-cet/kodluyoruzilkrepo.git
+
+***
